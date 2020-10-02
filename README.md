@@ -1,2 +1,2 @@
 # Hello-World
-Fist time out
+First time out
